@@ -17,7 +17,7 @@ This repository provides the official MATLAB implementation of Structural Fuzzy 
 To run the algorithm, simply open MATLAB, navigate to the project directory, and execute:
 
 ```matlab
-main
+main```
 
 ## ⚠️ Notice:
 
